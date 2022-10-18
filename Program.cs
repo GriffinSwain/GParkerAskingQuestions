@@ -1,4 +1,9 @@
-﻿string name = "";
+﻿//Griffin Parker
+//Mini Challenge 3 Remastered - Asking Questions
+//October 18, 2022
+//Peer Reviewed by: 
+
+string name = "";
 string time = "";
 string repeat = "";
 int choice = 0;
@@ -6,7 +11,7 @@ int loop = 0;
 while (loop == 0)
 {
 Console.Clear();
-Console.WriteLine("Ay yo bruv, what ya momma call ya?");
+Console.WriteLine("Ay yo, what ya momma call ya?");
 name = Console.ReadLine();
 Console.WriteLine("And what time did your eyes crack open this morning?");
 time = Console.ReadLine();
@@ -31,7 +36,7 @@ choice = 0;
 }
 while (choice == 0)
 {
-Console.WriteLine("C'mon, tell me the thruth this time. \"yes\" or \"no\"?");
+Console.WriteLine("C'mon, tell me the truth this time. \"yes\" or \"no\"?");
 repeat = Console.ReadLine();
 repeat = repeat.ToLower();
 if (repeat == "no")
