@@ -1,7 +1,6 @@
 ﻿//Griffin Parker
 //Mini Challenge 3 Remastered - Asking Questions
 //October 18, 2022
-//Peer Reviewed by: 
 
 string name = "";
 string time = "";
