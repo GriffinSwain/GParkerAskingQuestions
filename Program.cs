@@ -1,6 +1,8 @@
 ﻿//Griffin Parker
 //Mini Challenge 3 Remastered - Asking Questions
 //October 18, 2022
+//This project asks the user for their name and when they woke up, and then checks to make sure they inputted something for both fields. It then tells the user 
+//their name and when they woke up.
 
 string name = "";
 string time = "";
