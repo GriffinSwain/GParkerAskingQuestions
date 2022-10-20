@@ -13,3 +13,18 @@ C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\GParkerAskingQu
 C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\GParkerAskingQuestions\obj\Debug\net6.0\GParkerAskingQuestions.pdb
 C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\GParkerAskingQuestions\obj\Debug\net6.0\GParkerAskingQuestions.genruntimeconfig.cache
 C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\GParkerAskingQuestions\obj\Debug\net6.0\ref\GParkerAskingQuestions.dll
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GParkerAskingQuestions\bin\Debug\net6.0\GParkerAskingQuestions.exe
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GParkerAskingQuestions\bin\Debug\net6.0\GParkerAskingQuestions.deps.json
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GParkerAskingQuestions\bin\Debug\net6.0\GParkerAskingQuestions.runtimeconfig.json
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GParkerAskingQuestions\bin\Debug\net6.0\GParkerAskingQuestions.dll
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GParkerAskingQuestions\bin\Debug\net6.0\GParkerAskingQuestions.pdb
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GParkerAskingQuestions\obj\Debug\net6.0\GParkerAskingQuestions.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GParkerAskingQuestions\obj\Debug\net6.0\GParkerAskingQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GParkerAskingQuestions\obj\Debug\net6.0\GParkerAskingQuestions.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GParkerAskingQuestions\obj\Debug\net6.0\GParkerAskingQuestions.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GParkerAskingQuestions\obj\Debug\net6.0\GParkerAskingQuestions.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GParkerAskingQuestions\obj\Debug\net6.0\GParkerAskingQuestions.dll
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GParkerAskingQuestions\obj\Debug\net6.0\refint\GParkerAskingQuestions.dll
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GParkerAskingQuestions\obj\Debug\net6.0\GParkerAskingQuestions.pdb
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GParkerAskingQuestions\obj\Debug\net6.0\GParkerAskingQuestions.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GParkerAskingQuestions\obj\Debug\net6.0\ref\GParkerAskingQuestions.dll
