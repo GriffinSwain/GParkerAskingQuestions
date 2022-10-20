@@ -1,6 +1,6 @@
 This project asks the user for their name and when they woke up, and then checks to make sure they inputted something for both fields. It then tells the user 
 their name and when they woke up. A textbox appears asking if they want to replay the program and makes sure they say "yes" or "no" to either restart or stop the program.
 
-Peer Review by
+Peer Review by Daniel Decoito: The program runs well and meets all criteria for the project. First I would like the mention how much I enjoyed the interaction with the user. Although what is being asked is simple I enjoyed how it was being asked. It created a more engaging programing. You have intersting conditions for your loops. While they are interesting in thought ultimatley the create unnecesary code. Consider using the not equal to operator to create your condition. an example being -->while (stringVar != "end")<--, I hope that makes sense. Another thing that can be done is to use line breaks withing a string so you dont have to write multiple Console.WriteLines. Otherwise that the app worked great and had alot of humor.
 
 -
